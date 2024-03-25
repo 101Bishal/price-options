@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "https://example.com/image1.jpg",
+        "description": "A beautiful landscape with mountains and a lake."
+    },
+    {
+        "id": 2,
+        "image": "https://example.com/image2.jpg",
+        "description": "A cozy cabin in the woods surrounded by tall trees."
+    },
+    {
+        "id": 3,
+        "image": "https://example.com/image3.jpg",
+        "description": "An adorable puppy playing in a field of flowers."
+    },
+    {
+        "id": 4,
+        "image": "https://example.com/image4.jpg",
+        "description": "A delicious spread of various fruits on a wooden table."
+    }
+]
